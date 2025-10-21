@@ -24,3 +24,7 @@ __Основные требования к ПО для пользования:__
 __Порядок установки:__
  1. Скачать apk файл.
  2. Открыть
+
+<img width="885" height="465" alt="image" src="https://github.com/user-attachments/assets/6ec78523-89de-479f-8be5-569e42083c83" />
+
+<img width="893" height="383" alt="image" src="https://github.com/user-attachments/assets/336b35e7-e97d-4d6a-9565-041b499fa1d3" />
